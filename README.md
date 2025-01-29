@@ -1,9 +1,8 @@
 <img src="https://comicvine.gamespot.com/a/uploads/original/11162/111629420/8640179-3204337664-luffy.jpg" 
-     alt="Luffy" width="500" height="auto" 
-     style="display: block; margin: auto;">
+     alt="Luffy" width="400" height="auto" 
+     style="display: center">
 
 <h1 align="center">Yoo! 😊, I'm Satapol Boonjong</h1>
-<h3 align="center">🚀</h3>
 
 - 📖 I’m currently learning **Python,ML**
 
