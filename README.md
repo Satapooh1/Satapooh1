@@ -1,4 +1,4 @@
-<img src="https://comicvine.gamespot.com/a/uploads/original/11162/111629420/8640179-3204337664-luffy.jpg" alt="Luffy">
+<img src="https://comicvine.gamespot.com/a/uploads/original/11162/111629420/8640179-3204337664-luffy.jpg" alt="Luffy" width="300" height="auto">
 
 <h1 align="center">Yoo! 😊, I'm Satapol Boonjong</h1>
 <h3 align="center">🚀</h3>
