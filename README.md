@@ -3,7 +3,6 @@
      style="display: block; margin: auto;">
 
 <h1 style="text-align: center;">Yoo! 😊, I'm Satapol Boonjong</h1>
-<h3 style="text-align: center;">🚀</h3>
 
 - 📖 I’m currently learning **Python, ML**
 
